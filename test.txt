@@ -1,0 +1,3 @@
+hello_from_inside_container
+
+hello_from_vscode
